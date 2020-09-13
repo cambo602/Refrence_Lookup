@@ -198,5 +198,7 @@ class getStats():
 
                     print('PPG ' + str(ppg))
 
-
+    time.sleep(1000)
+    
 player = getStats()
+
